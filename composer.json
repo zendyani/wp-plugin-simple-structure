@@ -1,0 +1,15 @@
+{
+    "name": "zendyani/wp-ajax-plugin",
+    "autoload": {
+        "psr-4": {
+            "Wap\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jalil",
+            "email": "zendyani@gmail.com"
+        }
+    ],
+    "require": {}
+}
